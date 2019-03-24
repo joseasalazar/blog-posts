@@ -1,2 +1,2 @@
 # blog-posts
-Activity for me web development class working with CRUD operations.
+Activity for my web development class working with CRUD operations.
